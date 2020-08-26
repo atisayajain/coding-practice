@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Question 1?",
+        "options": ["JavaScript", "Python", "C++", "PHP"],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "question": "Question 2?",
+        "options": ["JavaScript", "Python", "C++", "PHP"],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "question": "Question 3?",
+        "options": ["JavaScript", "Python", "C++", "PHP"],
+        "answer": 3
+    },
+    {
+        "id": 4,
+        "question": "Question 4?",
+        "options": ["JavaScript", "Python", "C++", "PHP"],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "question": "Question 5?",
+        "options": ["JavaScript", "Python", "C++", "PHP"],
+        "answer": 2
+    }
+]
